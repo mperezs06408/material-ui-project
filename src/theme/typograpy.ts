@@ -16,6 +16,7 @@ export const typography: ThemeOptions["typography"] = {
   h1: {
     fontSize: theme.spacing(47.78),
     fontWeight: "bold",
+    textTransform: "uppercase",
     lineHeight: 1.15,
   },
   h2: {
